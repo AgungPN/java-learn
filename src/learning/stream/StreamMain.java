@@ -18,7 +18,7 @@ public class StreamMain {
     BasicStream.collectToStream();
     System.out.println("==================================");
     BasicStream.streamBuilder();
-  }
+ }
 
   private static void streamOperation() {
     StreamOperation.basicOperation();
